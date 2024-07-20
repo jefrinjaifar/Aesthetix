@@ -1,0 +1,41 @@
+ button{
+    background-color: black;
+    color:white;
+    text-align: center;
+    width:90px;
+    height:90px;
+    margin:15px;
+    padding: 20px;
+    border-radius: 20px;  
+    font-size: 30px;
+    box-shadow:1px 1px 10px 1px;
+    
+}
+body{
+    background-image: url(mh.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 300px;
+}
+input{
+    width: 430px;
+    height: 100px;
+    font-size: 50px;
+    border: 1px solid;
+    border-radius: 30px;
+    box-shadow:1px 1px 10px 1px;
+}
+div{
+    text-align: center;
+    padding-top: 70px;
+    margin-top: 80px;
+    border: 1px solid;
+    width:600px; 
+    height:700px;
+    border-radius: 35px;
+    box-shadow: 1px 1px 10px 1px;
+    background-color:rgb(83, 79, 79);
+    border-color: rgb(83, 79, 79);
+    margin-left:250px;
+
+}
